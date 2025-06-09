@@ -26,3 +26,6 @@ I am a Software Engineering student at the Indonesian Education University (UPI)
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 [![](https://visitcount.itsvg.in/api?id=Kamikaze070104&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<img src="https://raw.githubusercontent.com/Kamikaze070104/Kamikaze070104/output/snake.svg" alt="Snake animation" />
+
