@@ -1,5 +1,5 @@
 <!-- # Hi there! I'm Faizal Azzriel Gibar 👋 -->
-![Faizal](Asset/github-header-image.png)
+![Faizal](Asset/github-header.png)
 
 ![Hutao](Asset/hutaoIcon.webp)
 
