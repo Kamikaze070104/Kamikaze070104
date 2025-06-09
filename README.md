@@ -1,4 +1,6 @@
-## Hi there 👋
+# Hi there! I'm Faizal Azzriel Gibar 👋
+
+![Hutao](Asset/hutaoIcon.webp)
 
 <!--
 **Kamikaze070104/Kamikaze070104** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### They Call Me Faizal😄
+- 🌱 I’m currently learning **[Laravel]() Framework**
