@@ -5,11 +5,16 @@
 
 
 ### They Call Me Faizal😄
-- 🌱 I’m currently learning **[Laravel]() Framework**
+I am a Software Engineering student at the Indonesian Education University (UPI) with a focus on web-based application and system development. Through various projects and experiences, I have honed my skills in programming, software testing, and problem-solving. i’m interest in Web Development, Andorid and Cybersecurity, I’m to deepen my expertise and contribute to developing innovative and impactful technology solutions.
+- I'm currently learning **[Laravel]() Framework**👍
+- I'm conducting a course on coursera😁
+- I'm currently internship at Diskominfo Jabar🏢
 ##### My Skills
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /><img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" /><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" /><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,php,bootstrap,laravel,react,tailwind,mysql&perline=5&theme=light)](https://skillicons.dev)
+
 
 ##### Connect With Me
-![https://www.instagram.com/fzlazzgbr/](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
-![https://www.linkedin.com/in/faizal-azzriel-g-686b36258/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-![https://github.com/Kamikaze070104](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+[![https://www.instagram.com/fzlazzgbr/](https://skillicons.dev/icons?i=instagram&theme=light)](https://skillicons.dev)[![https://github.com/Kamikaze070104](https://skillicons.dev/icons?i=github&theme=light)](https://skillicons.dev)[![https://www.linkedin.com/in/faizal-azzriel-g-686b36258/](https://skillicons.dev/icons?i=linkedin&theme=light)](https://skillicons.dev)
+
+##### My Github Stats
+![Kamikaze070104's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kamikaze070104&show_icons=true&theme=tokyonight)
