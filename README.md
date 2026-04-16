@@ -6,9 +6,7 @@
 
 ### They Call Me Faizal😄
 I am a Software Engineering student at the Indonesian Education University (UPI) with a focus on web-based application and system development. Through various projects and experiences, I have honed my skills in programming, software testing, and problem-solving. i’m interest in Web Development, Andorid and Cybersecurity, I’m to deepen my expertise and contribute to developing innovative and impactful technology solutions.
-- I'm currently learning **[Laravel]() Framework**👍
-- I'm conducting a course on coursera😁
-- I'm currently internship at Diskominfo Jabar🏢
+
 ##### My Skills
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,php,bootstrap,laravel,react,tailwind,mysql&perline=5&theme=light)](https://skillicons.dev)
 
