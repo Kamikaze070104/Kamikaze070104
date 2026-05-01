@@ -17,6 +17,12 @@ I am a Software Engineering student at the Indonesian Education University (UPI)
 
 ---
 
+<<<<<<< HEAD
+=======
+### They Call Me Faizal😄
+I am a Software Engineering student at the Indonesian Education University (UPI) with a focus on web-based application and system development. Through various projects and experiences, I have honed my skills in programming, software testing, and problem-solving. i’m interest in Web Development, Andorid and Cybersecurity, I’m to deepen my expertise and contribute to developing innovative and impactful technology solutions.
+
+>>>>>>> 2b46920966b794c3ea8dac6163dbd644c2b6f368
 ##### My Skills
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,php,bootstrap,laravel,react,tailwind,mysql&perline=5&theme=light)](https://skillicons.dev)
